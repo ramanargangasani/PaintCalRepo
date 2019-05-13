@@ -1,21 +1,15 @@
 # PaintCalRepo
 
-	Steps to create project solution using Zip file
-	
-1. Create one folder in the local system(LikeC\Exampleproject)
-2. Under above folder create Homapage folder and Package folder
-3. In Homapage folder unzip Homepage.zip
-4. Package folder unzip Package-1.zip and Package-2.zip
-5. Copy PaintCalc.sln into above folder
-
-
-
-		Automation Framework Steps
+			Automation Framework Steps
 
 1.	Install  Visual Studio Community Version 2017 or higher
 2.	Open  URL : https://github.com/ramanargangasani/PaintCalRepo
-3.	Download the Automation Frame work Steps from Step 2
-4.	Download the Paint Calc Solution from  step 2
+3.	Clone or download the project.
+		1. Create one folder in the local system(LikeC\Exampleproject)
+		2. Under above folder create Homapage folder and Package folder
+		3. In Homapage folder unzip Homepage.zip
+		4. Package folder unzip Package-1.zip and Package-2.zip
+		5. Copy PaintCalc.sln into above folder.	
 5.	Create Folder on C:\ ExtentReports for the Test Scenario  reports
 6.	Run the Homepage.Testcases namespace.
 7.	Test report will generate C:\ ExtentReports  folder 
