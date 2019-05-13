@@ -1,5 +1,15 @@
 # PaintCalRepo
 
+	Steps to create project solution using Zip file
+	
+1. Create one folder in the local system(LikeC\Exampleproject)
+2. Under above folder create Homapage folder and Package folder
+3. In Homapage folder unzip Homepage.zip
+4. Package folder unzip Package-1.zip and Package-2.zip
+5. Copy PaintCalc.sln into above folder
+
+
+
 		Automation Framework Steps
 
 1.	Install  Visual Studio Community Version 2017 or higher
