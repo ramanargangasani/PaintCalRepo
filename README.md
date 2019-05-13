@@ -1,6 +1,6 @@
 # PaintCalRepo
 
-		Automations Framework Steps
+		Automation Framework Steps
 
 1.	Install  Visual Studio Community Version 2017 or higher
 2.	Open  URL : https://github.com/ramanargangasani/PaintCalRepo
